@@ -1,0 +1,36 @@
+--------- Intro
+
+- Of the newly registered private cars in Hong Kong, 12.4% were EVs in 2020. Was just 0.1% in 2010.
+
+- Private cars account for 71% for all vehicles in Hong Kong and 4.2% of carbon emissions in 2018. 
+
+- Thanks to First Registration Tax Concession totally $7.4B over the past 6 years, the number of EVs in Hong Kong has been surging from less than 200 to 18500, and expecting further
+
+- An ideal target: to halt registering fossel-fuel-driven private cars by 2035 (WHY ONLY PRIVATE CARS? ANY PROBLEM?) 
+
+--------- Current Situation (Private cars)
+
+- Insufficient EV chargers in all districts, especially in the New Territories
+
+- EV chargers typically located in carparks, which is user-unfriendly
+
+- Could pose serious problems in areas with heavy traffic
+
+--------- Major Problems for other vehicles
+
+- Taxis: Iusufficient capacitance for long journeys. Taxis travel 400 to 1000 km daily, but current charger require at least 15 minutes charging for a 100 km journey. Moreover, the locations of EV chargers have serious impact on (i) travelling time to and from the chargers, (ii) and nearby traffic. 
+
+- Taxis: Battery lifetime is very short (taxis run extremely high mileages). Frequent replacement of battery is an economic issue. 
+
+- Buses: Insufficient capacitance. Fully charged batteries are only able to support at most 400 km mileage, which do not suffice for most long-haul routes. More factors to consider: (i) location of chargers (different from light vechicles; buses are much less flexible), (ii) high ridership of buses (a bus taking 140 consumes much more energy than an empty bus does).
+
+- Buses: High-capacity buses are not prevalent in most parts of the world. Since the global demand for very powerful batteries are kept rather low, the pace of buses transforming to EV could be hindered. Single-deck buses are not a substitute to double-decks.
+
+- Buses: Target - to introduce up to 500 EVs within 5 years. 
+
+- Medium and heavy goods vehicles: similar situation. Currently there is only one model of e-medium goods vehicles in the local market and is on trial under the (New Energy Transportation) NET Fund. Heavy vehicles including lorries and concatenate vehicles can weigh up to 40 tonnes, in comparison a fully loaded bus weighs up to around 30 tonnes. 
+
+- "EV-charging at Home Scheme": $2 B subsidy for EV infrastructures, catering for up to 60000 parking spaces.
+
+
+ 
